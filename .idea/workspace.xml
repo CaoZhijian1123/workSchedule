@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be92d259-88c8-4bcc-b32c-172880ab1985" name="Default Changelist" comment="Version 1.0&#10;Author Zhijian Cao&#10;Date 6/24/2019 1:06 Monday">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cal/cal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cal/src/test/TestAlgorithms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cal/test/TestAlgorithms$Tag.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cal/test/TestAlgorithms.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/idea/com/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Main.java" afterDir="false" />
+    <list default="true" id="be92d259-88c8-4bcc-b32c-172880ab1985" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cal/src/test/TestAlgorithms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="166" column="8" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
+            <state relative-caret-position="-1584">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding>
                 <element signature="e#670#671#0" expanded="true" />
                 <element signature="method#init#0;class#TestAlgorithms#0" />
@@ -78,9 +68,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-42" />
-    <option name="y" value="13" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="123" />
+    <option name="y" value="-14" />
     <option name="width" value="1265" />
     <option name="height" value="1000" />
   </component>
@@ -193,12 +183,20 @@
       <workItem from="1561216860570" duration="234000" />
       <workItem from="1561217264094" duration="356000" />
       <workItem from="1561290515785" duration="91000" />
-      <workItem from="1561290750090" duration="9161000" />
+      <workItem from="1561290750090" duration="9459000" />
     </task>
+    <task id="LOCAL-00001" summary="Version 1.0&#10;Author Zhijian Cao&#10;Date 6/24/2019 1:06 Monday">
+      <created>1561309789868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561309789869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9842000" />
+    <option name="totallyTimeSpent" value="10140000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,9 +208,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-42" y="13" width="1265" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18257262" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,11 +225,11 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.18221258" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3290993" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290993" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -245,6 +244,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Version 1.0&#10;Author Zhijian Cao&#10;Date 6/24/2019 1:06 Monday" />
@@ -265,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cal/src/test/TestAlgorithms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="166" column="8" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
+        <state relative-caret-position="-1584">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
             <element signature="e#670#671#0" expanded="true" />
             <element signature="method#init#0;class#TestAlgorithms#0" />
