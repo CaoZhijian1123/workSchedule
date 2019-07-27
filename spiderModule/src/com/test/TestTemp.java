@@ -1,14 +1,13 @@
 package com.test;
-
 /**
  * @Author: Zhijian Cao
  * @Email : caozj17@mails.tsinghua.edu.cn
- * @Comment Info: $
+ * @Comment Info:
  * 2019/7/24 19:36
- * $
+ *
  */
 public class TestTemp {
     public static void main(String[] args) {
-
+        System.out.println("hello world");
     }
 }
